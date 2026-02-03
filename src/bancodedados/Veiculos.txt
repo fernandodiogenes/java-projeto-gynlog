@@ -1,0 +1,8 @@
+15;239MD3;Chevrolet;Astra;2005;false
+2354;DF4354;Toyota;Corolla;2023;true
+125;PEU3909;chevrolet;onix;2024;false
+34;AMD345;Chevrolet;Chevette;1995;false
+8756;KDHE5;Mitsubishi;Eclipse;1998;true
+36;spdiue!;bmw;320i;2025;true
+90;spd3ie!;bmw;325i;2024;true
+9;SHF48;Ford;Fiesta;2022;false
